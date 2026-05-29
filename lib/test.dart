@@ -7,7 +7,7 @@ void main(){
   bool x = true;
 
 
-  print("Hello $fname ! age : $age money : $money $x");
+  print("Hello $fname ! age : $age money : $money $x ❤️❤️❤️❤️😒😢😢😢😭😭😭😭😭😭😭😭😭");
 
 
 }
